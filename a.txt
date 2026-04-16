@@ -1,0 +1,21 @@
+Last login: Sun Mar 15 15:44:51 on console
+susanyang@Mac archive webpage % </>Bash cd /Users/susanyang/Desktop/archive\ webpage
+susanyang@Mac archive webpage % 
+susanyang@Mac archive webpage % 
+susanyang@Mac archive webpage % git initgit add .git commit -m "add files"git remote add origin https://github.com/yourusername/repo-name.gitgit push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

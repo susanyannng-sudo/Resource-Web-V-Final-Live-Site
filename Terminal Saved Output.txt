@@ -1,0 +1,23 @@
+Last login: Wed Mar 18 02:18:03 on ttys000
+susanyang@Mac archive webpage % cd ~/Desktop/Archive-Webgit init
+git remote add origin https://github.com/susanyannng-sudo/Archive-Web.gitgit add .
+git commit -m "upload website files"git branch -M main
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
